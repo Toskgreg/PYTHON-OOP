@@ -1,7 +1,8 @@
-#PROJECT TO TEST PROPER KNOWLEDGE OF OOP
 <a href="https://codeclimate.com/github/Toskgreg/PYTHON-OOP/maintainability"><img src="https://api.codeclimate.com/v1/badges/ded5dccb81e8a9542355/maintainability" /></a>
 [![Build Status](https://travis-ci.org/Toskgreg/PYTHON-OOP.svg?branch=develop)](https://travis-ci.org/Toskgreg/PYTHON-OOP)
 [![Coverage Status](https://coveralls.io/repos/github/Toskgreg/PYTHON-OOP/badge.svg?branch=develop)](https://coveralls.io/github/Toskgreg/PYTHON-OOP?branch=develop)
+
+#PROJECT TO TEST PROPER KNOWLEDGE OF OOP
 Modelling patients in a hospital using OOP principles .
 Because of time constraints I use a very simplistic real life model of patients in a hospital to demonstrate my understanding of OOP.
 
