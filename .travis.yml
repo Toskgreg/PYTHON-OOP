@@ -10,7 +10,7 @@ install:
 script:
 - pytest
 - 
-- coverage3 run test_rides.py
+- coverage3 run test_patient.py
 - coveralls
 - cd ..
 env:
